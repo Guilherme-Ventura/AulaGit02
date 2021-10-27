@@ -24,4 +24,4 @@ hs_err_pid*
 
 *.jar
 *.xml
-AulaGit02\node_modules*.txt
+\node_modules *.txt
